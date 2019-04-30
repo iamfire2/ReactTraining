@@ -4,6 +4,17 @@
       "title": "First Stream",
       "description": "First Post Creation for Stream",
       "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "Second Test for Steam ",
+      "id": 2
+    },
+    {
+      "title": "First Personal Stream",
+      "description": "Private Stream",
+      "userId": "115068489374518852227",
+      "id": 3
     }
   ]
 }
